@@ -9,8 +9,15 @@ The aim is to create a clear blueprint to guide the development process and ensu
 
 ## What is Requirement Analysis?
 
-Requirement Analysis is the process of understanding, documenting, and organizing the needs and expectations of stakeholders for a software project. 
-It is a crucial step in the Software Development Life Cycle (SDLC) because it ensures that the software being built meets the business goals and user needs. 
+Requirement Analysis is a critical phase in the Software Development Life Cycle (SDLC) that involves identifying, documenting, and managing the needs and expectations of stakeholders for a software project. 
 
-During Requirement Analysis, developers and analysts gather functional and non-functional requirements, define clear use cases, and set acceptance criteria. 
-This helps prevent misunderstandings, reduces errors, and guides the development team to build software that is efficient, scalable, and aligned with stakeholder expectations.
+This process ensures that the software solution aligns with business objectives and user needs while minimizing risks and costly errors during development. Requirement Analysis helps answer the fundamental question: *“What exactly should the software do, and how should it behave?”*
+
+Key activities include:
+
+- **Requirement Elicitation:** Gathering information from stakeholders through interviews, surveys, and workshops.
+- **Requirement Documentation:** Creating clear and structured documents, including functional and non-functional requirements.
+- **Requirement Validation:** Reviewing requirements with stakeholders to ensure they are accurate, complete, and feasible.
+- **Use Case & Acceptance Criteria Definition:** Designing scenarios and conditions that the software must meet to be considered successful.
+
+By performing thorough Requirement Analysis, development teams gain clarity, improve communication, and lay a solid foundation for building scalable, reliable, and high-quality software solutions.
