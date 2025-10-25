@@ -60,3 +60,29 @@ Requirement Analysis involves several structured activities that help ensure the
   Validation ensures that the documented requirements accurately reflect stakeholder needs and are achievable within project constraints. This involves reviewing requirements with stakeholders, verifying correctness, and confirming that the requirements are complete, consistent, and testable.
 
 By systematically performing these activities, software development teams can reduce misunderstandings, avoid costly changes, and ensure that the final product meets both user expectations and business goals.
+
+## Types of Requirements
+
+In Requirement Analysis, understanding the different types of requirements is crucial for ensuring the system functions as expected and meets user expectations. The two main categories are Functional and Non-functional Requirements.
+
+### Functional Requirements
+Functional requirements define **what the system should do**. They describe specific behavior, actions, or features of the software.
+
+**Examples for the Booking Management System:**
+- **Property Search:** Users can search for available properties based on location, date, and type.
+- **User Registration and Login:** Users must be able to create accounts, log in, and manage their profiles.
+- **Booking Management:** Users can make, modify, or cancel bookings.
+- **Payment Processing:** The system should process secure payments for bookings.
+- **Notifications:** Users receive confirmation emails or alerts for bookings and cancellations.
+
+### Non-functional Requirements
+Non-functional requirements define **how the system performs** rather than what it does. These requirements often focus on quality attributes, constraints, and standards.
+
+**Examples for the Booking Management System:**
+- **Performance:** The system should load search results in under 2 seconds.
+- **Security:** User data must be encrypted, and secure authentication must be enforced.
+- **Scalability:** The system should handle up to 10,000 simultaneous users without performance degradation.
+- **Usability:** The interface should be intuitive, ensuring users can book properties easily.
+- **Availability:** The system should be operational 99.9% of the time.
+
+By distinguishing between functional and non-functional requirements, developers and stakeholders can ensure the system not only works correctly but also provides a high-quality user experience.
