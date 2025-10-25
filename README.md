@@ -139,3 +139,43 @@ Below is the use case diagram for the **Booking Management System**:
 - **Admin** oversees management functions such as user control and report generation.  
 
 This diagram helps visualize all major user interactions and ensures no critical scenario is overlooked during requirement analysis.
+
+✅ Acceptance Criteria
+What is Acceptance Criteria?
+
+Acceptance Criteria are the conditions that a software product must satisfy to be accepted by a user, customer, or stakeholder.
+They define what success looks like for a specific feature or requirement and ensure that development teams clearly understand when a feature is considered “done.”
+
+Acceptance Criteria serve as the bridge between requirements and testing — helping developers know what to build, and testers know what to verify.
+
+💡 Importance of Acceptance Criteria
+
+Clarifies expectations – ensures developers and stakeholders share the same understanding of what each feature must do.
+
+Improves quality – defines measurable outcomes that must be met before delivery.
+
+Guides testing – provides the foundation for test cases and validation.
+
+Reduces ambiguity – prevents misunderstandings and scope creep during development.
+
+Supports agile development – commonly used in user stories to determine “Done” criteria.
+
+🧾 Example: Acceptance Criteria for the Checkout Feature
+
+Feature: Checkout (Booking Confirmation and Payment)
+
+Acceptance Criteria:
+
+The system must display a booking summary (property name, date, duration, total cost) before payment.
+
+Users must be able to choose a payment method (credit card, PayPal, or bank transfer).
+
+The system must validate payment information and display an error message for invalid entries.
+
+Upon successful payment, a confirmation message and booking reference number must be displayed.
+
+The system must send a confirmation email to the user within one minute of payment.
+
+The booking status must automatically change to “Confirmed” in the user’s booking history.
+
+📘 By defining clear acceptance criteria, teams ensure that all stakeholders agree on what success means for each feature before implementation begins.
