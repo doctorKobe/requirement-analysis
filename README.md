@@ -39,3 +39,24 @@ Requirement Analysis is a cornerstone of successful software development. Its si
    Knowing the scope and priorities of the project helps in efficient planning, scheduling, and allocation of resources, ensuring that essential features are developed first and deadlines are met.
 
 By emphasizing Requirement Analysis, software projects are more likely to be completed on time, within budget, and meet the quality expectations of stakeholders.
+
+## Key Activities in Requirement Analysis
+
+Requirement Analysis involves several structured activities that help ensure the software meets stakeholder needs and aligns with business goals. The key activities include:
+
+- **Requirement Gathering**  
+  This is the process of collecting high-level requirements from stakeholders, clients, and users. It involves understanding the project’s objectives, constraints, and expectations to establish a foundation for detailed analysis.
+
+- **Requirement Elicitation**  
+  Elicitation goes beyond gathering and involves actively interacting with stakeholders to refine and clarify requirements. Techniques include interviews, questionnaires, workshops, brainstorming sessions, and observing existing systems to uncover both explicit and implicit needs.
+
+- **Requirement Documentation**  
+  Once requirements are gathered and elicited, they need to be formally documented. This includes writing detailed specifications, user stories, use cases, and diagrams that provide a clear reference for developers, testers, and project managers throughout the SDLC.
+
+- **Requirement Analysis and Modeling**  
+  During this phase, requirements are analyzed for feasibility, consistency, completeness, and potential conflicts. Modeling techniques, such as use case diagrams, flowcharts, and data models, are often used to visually represent the system and interactions between users and the system.
+
+- **Requirement Validation**  
+  Validation ensures that the documented requirements accurately reflect stakeholder needs and are achievable within project constraints. This involves reviewing requirements with stakeholders, verifying correctness, and confirming that the requirements are complete, consistent, and testable.
+
+By systematically performing these activities, software development teams can reduce misunderstandings, avoid costly changes, and ensure that the final product meets both user expectations and business goals.
