@@ -86,3 +86,5 @@ Non-functional requirements define **how the system performs** rather than what 
 - **Availability:** The system should be operational 99.9% of the time.
 
 By distinguishing between functional and non-functional requirements, developers and stakeholders can ensure the system not only works correctly but also provides a high-quality user experience.
+
+![Booking System Use Case Diagram](./alx-booking-uc.png)
