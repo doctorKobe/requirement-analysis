@@ -87,4 +87,55 @@ Non-functional requirements define **how the system performs** rather than what 
 
 By distinguishing between functional and non-functional requirements, developers and stakeholders can ensure the system not only works correctly but also provides a high-quality user experience.
 
+## 🧭 Use Case Diagrams
+
+### What is a Use Case Diagram?
+
+A **Use Case Diagram** is a visual representation that shows how users (actors) interact with a system to achieve specific goals.  
+It helps stakeholders and developers understand the system’s **functional requirements** and the relationships between **users** and **use cases**.
+
+### 💡 Benefits of Use Case Diagrams
+- **Clarifies system scope** – defines what is inside and outside the system boundary.  
+- **Identifies system actors** – highlights who interacts with the system (e.g., customers, admins).  
+- **Improves communication** – provides a simple, visual way for both technical and non-technical stakeholders to understand the system.  
+- **Supports requirement validation** – ensures all user interactions are captured before design and implementation.
+
+---
+
+### 🧑‍💼 Actors in the Booking Management System
+1. **Customer** – Makes, modifies, or cancels bookings.  
+2. **Admin** – Manages users, services, and booking records.  
+3. **System** – Sends notifications, processes payments, and manages availability.
+
+---
+
+### 🏷️ Use Cases
+- Create Booking  
+- Modify Booking  
+- Cancel Booking  
+- Make Payment  
+- Receive Confirmation  
+- View Booking History  
+- Manage Users (Admin)  
+- Manage Services (Admin)  
+- Generate Reports (Admin)
+
+---
+
+### 🖼️ Use Case Diagram
+
+Below is the use case diagram for the **Booking Management System**:
+
 ![Booking System Use Case Diagram](./alx-booking-uc.png)
+
+*Figure: Use Case Diagram showing interactions between actors and the system.*
+
+---
+
+### 🧠 Interpretation
+
+- **Customer** interacts with the system to create, modify, and cancel bookings.  
+- **System** handles backend processes like payment and notifications.  
+- **Admin** oversees management functions such as user control and report generation.  
+
+This diagram helps visualize all major user interactions and ensures no critical scenario is overlooked during requirement analysis.
