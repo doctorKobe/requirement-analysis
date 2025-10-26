@@ -126,6 +126,7 @@ It helps stakeholders and developers understand the system’s **functional requ
 
 Below is the use case diagram for the **Booking Management System**:
 
+![Booking System Use Case Diagram](./alx-booking2-uc.png)
 ![Booking System Use Case Diagram](./alx-booking-uc.png)
 
 *Figure: Use Case Diagram showing interactions between actors and the system.*
